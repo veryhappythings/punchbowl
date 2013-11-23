@@ -16,7 +16,9 @@ All you'll need is what's in requirements.txt.
 
 ## Installation/Usage
 
-    pip install punchbowl
+One day this will probably turn up on PyPi. Until then, have a go on this:
+
+    pip install https://github.com/veryhappythings/punchbowl/archive/master.zip
 
 That should be all you have to do, and then you should be ready to roll!
 
